@@ -1,0 +1,28 @@
+{
+  "name": "markov_generator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Anna Westin",
+  "license": "ISC",
+  "dependencies": {
+    "array-matrix": "^1.0.0",
+    "component-install": "^1.0.1",
+    "markov-chains": "^1.0.2",
+    "markov-chains-text": "^1.0.0",
+    "math-matrix": "^1.0.0",
+    "mathjs": "^5.4.0",
+    "matrix-js": "^1.4.0",
+    "n-gram": "^1.1.0",
+    "node-matrix": "^1.0.0",
+    "read-text-file": "^1.1.0",
+    "simple-ngram-markov": "^1.0.4",
+    "tokenizer": "^1.1.2",
+    "trim": "0.0.1",
+    "w3c-xmlhttprequest": "^2.1.3"
+  }
+}
