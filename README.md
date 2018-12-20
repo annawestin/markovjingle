@@ -1,12 +1,12 @@
 # markovjingle
-This is a node-program that uses a markov model-library to generate new christmas songs.
+This is a node-program that uses a markov model library to generate new christmas songs.
 
 ## To run
 ```shell
 npm start songs.txt
 ```
 
-##Two examples of output:
+## Two examples of output:
 
 ```
 Jesus no crying he makes
